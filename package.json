@@ -1,0 +1,18 @@
+{
+  "name": "parcel-packet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel src/index.html"
+  },
+  "author": "Bogdan Protasenko",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
